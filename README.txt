@@ -3,3 +3,4 @@ Les premières idées du projet sont présentes et vont évoluer au fur et à me
 L'objectif principal est de mettre en place et gérer les premiers événements de ce dépôt git.
 modif readme
 aa
+aa
